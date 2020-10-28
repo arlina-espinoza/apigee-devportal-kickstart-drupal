@@ -38,7 +38,7 @@
         "Fix issue with #summary_details introduced in Drupal 8.6.x": "https://www.drupal.org/files/issues/2018-12-17/core-undefined-index-summary_attributes-2998194-9.patch"
       },
       "drupal/default_content": {
-        "Do not import existing entities": "patches/default-content-skip-existing.patch"
+        "Do not import existing entities": "https://raw.githubusercontent.com/apigee/apigee-devportal-kickstart-drupal/d20e26ccecf3034defcfa3ef97c32e9c5022f5ff/patches/default-content-skip-existing.patch"
       }
     }
   }
